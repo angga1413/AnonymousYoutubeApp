@@ -1,4 +1,4 @@
-# SkyTube
+# Anonymous Youtube App Apk a.k.a SkyTube
 **A copylefted libre / open source YouTube player for Android, without ads.**
 
 <a href="#download">![Download APK](https://img.shields.io/github/downloads/ram-on/SkyTube/total.svg?label=SkyTube+Extra+Downloads)</a>
